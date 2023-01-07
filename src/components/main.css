@@ -1,0 +1,9 @@
+.Main {
+    position: absolute;
+    height: 380px;
+    width: 720px;
+    background-color: #e06666;
+    top: 156px;
+    left: 317px;
+    border: 2px solid black;
+}
